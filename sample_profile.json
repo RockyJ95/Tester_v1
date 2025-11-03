@@ -1,0 +1,33 @@
+{
+  "gross_income": 7500,
+  "tax_rate": 0.24,
+  "pre_tax_deductions": {
+    "401k": 400,
+    "HSA": 150
+  },
+  "post_tax_deductions": {
+    "Health Insurance": 300,
+    "Union Dues": 45
+  },
+  "debts": [
+    {
+      "name": "Auto Loan",
+      "principal": 18000,
+      "annual_interest_rate": 0.045,
+      "monthly_payment": 400
+    },
+    {
+      "name": "Student Loan",
+      "principal": 32000,
+      "annual_interest_rate": 0.055,
+      "monthly_payment": 500
+    }
+  ],
+  "expenses": {
+    "Rent": 1800,
+    "Utilities": 250,
+    "Groceries": 600,
+    "Transportation": 220,
+    "Subscriptions": 90
+  }
+}
